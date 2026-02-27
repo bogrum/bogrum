@@ -22,8 +22,10 @@ Bioengineer turned computational scientist, building tools at the intersection o
 
 - 🔬 **Research:** Molecular dynamics · protein–ligand docking · binding pocket detection
 - 🛠️ **Currently building:** Structural bioinformatics pipelines & visual tools
-- 🤝 **Volunteer:** Secretary @ ISCB-SC RSG-Türkiye
+- 🤝 **President** @ ISCB-SC RSG-Türkiye
 - 🎓 **Research Fellow** @ TÜBİTAK 3501 Career Development Program
+- 🎓 **Researcher** @ TÜBİTAK 2209-A
+- 🏥 **Researcher** @ TUSEB
 
 ---
 
@@ -61,7 +63,13 @@ Bioengineer turned computational scientist, building tools at the intersection o
 > CLI tool for **detecting small binding pockets** in protein conformational ensembles and running community docking simulations.
 > Developed under the **TÜBİTAK 2209-A** research program.
 
-→ [PocketHunter-Suite](https://github.com/costbio/PocketHunter-Suite) · [Demo](https://github.com/costbio/pockethunter_demo)
+→ [Demo](https://github.com/costbio/pockethunter_demo)
+
+---
+
+### 🌐 [PocketHunter-Suite](https://github.com/costbio/PocketHunter-Suite)
+> **Streamlit web interface** for the full PocketHunter pipeline — interactive pocket detection, clustering, docking analysis, and 3D molecular visualization in the browser.
+> Docker-ready with real-time task monitoring.
 
 ---
 
@@ -84,16 +92,11 @@ Bioengineer turned computational scientist, building tools at the intersection o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bogrum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogrum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bogrum&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bogrum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bogrum&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -118,9 +121,11 @@ Bioengineer turned computational scientist, building tools at the intersection o
 **Experience**
 
 🔬 Research Fellow · TÜBİTAK 3501
+🔬 Researcher · TÜBİTAK 2209-A
+🏥 Researcher · TUSEB
 💊 Research Intern · ERA PHARMA
 🧪 Bioinformatics Intern · GTU BioInfo Lab
-🌐 Secretary · ISCB-SC RSG-Türkiye
+🌐 President · ISCB-SC RSG-Türkiye
 🏫 STEM Instructor · DENEYAP TÜRKİYE
 🎖️ Committee President · GTÜ IAPS
 
@@ -132,7 +137,8 @@ Bioengineer turned computational scientist, building tools at the intersection o
 
 <div align="center">
 
-*"Driven by curiosity, collaboration, and the pursuit of innovative solutions in bioinformatics and computational biology."*
+*"What I cannot create, I do not understand."*
+*— Richard Feynman*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
