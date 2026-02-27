@@ -1,84 +1,139 @@
-# Hi there, I'm Emre Taha Çevik 👋
+<div align="center">
 
-**Bioinformatics MSc Student | Bioengineer | Python Enthusiast**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emre%20Taha%20%C3%87evik&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Bioinformatician%20%7C%20Bioengineer%20%7C%20Builder&descAlignY=58&descSize=20)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=MSc+Bioinformatics+%40+Gebze+Technical+University;Molecular+simulations+%7C+Structural+bioinformatics;Building+tools+at+the+biology%E2%80%93code+interface)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bogrum&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/bogrum)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emrecev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/ProtonMail-e.cevik2000%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:e.cevik2000@proton.me)
+
+</div>
 
 ---
 
-## About Me
+## 🧬 About Me
 
-I'm a bioengineer with a strong academic foundation and hands-on experience in bioinformatics, currently pursuing my MSc in Bioinformatics and Systems Biology at Gebze Technical University. I’m passionate about applying Python programming, molecular simulations, and web-based tool development to solve real-world biological problems.
+Bioengineer turned computational scientist, building tools at the intersection of biology and code. Currently pursuing my MSc in **Bioinformatics & Systems Biology** at Gebze Technical University.
 
-I enjoy contributing to national research projects and interdisciplinary teams, constantly expanding my skills and collaborating with others. My main interests lie in computational biology, protein-ligand interactions, and structural bioinformatics. My goal is to advance effective scientific research and innovative biotech solutions.
+- 🔬 **Research:** Molecular dynamics · protein–ligand docking · binding pocket detection
+- 🛠️ **Currently building:** Structural bioinformatics pipelines & visual tools
+- 🤝 **Volunteer:** Secretary @ ISCB-SC RSG-Türkiye
+- 🎓 **Research Fellow** @ TÜBİTAK 3501 Career Development Program
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Bioinformatics & Simulation**
+
+![GROMACS](https://img.shields.io/badge/GROMACS-0094C6?style=for-the-badge&logoColor=white)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-E05B2B?style=for-the-badge&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-006E96?style=for-the-badge&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD-A23B72?style=for-the-badge&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3FAE2A?style=for-the-badge&logoColor=white)
+![RASPA](https://img.shields.io/badge/RASPA-5C4EE5?style=for-the-badge&logoColor=white)
+
+**Platforms & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC%20·%20TRUBA-00599C?style=for-the-badge&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [PocketHunter](https://github.com/costbio/PocketHunter)
+> CLI tool for **detecting small binding pockets** in protein conformational ensembles and running community docking simulations.
+> Developed under the **TÜBİTAK 2209-A** research program.
+
+→ [PocketHunter-Suite](https://github.com/costbio/PocketHunter-Suite) · [Demo](https://github.com/costbio/pockethunter_demo)
+
+---
+
+### 🧬 [Peptide Immunogenicity GCN](https://github.com/bogrum/peptide-immunogenicity-gcn)
+> **Graph Convolutional Network** for peptide immunogenicity prediction — merging structural biology with deep learning.
+
+---
+
+### ⚡ [TRUBA GROMACS Benchmark](https://github.com/bogrum/truba-gromacs-benchmark)
+> GROMACS 2025.3 **GPU performance benchmarks** on the TRUBA HPC cluster.
+> 300+ runs: MPI/OpenMP scaling, single & dual GPU configurations.
+
+---
+
+### 🔧 [Nextflow Pipeline Builder](https://github.com/bogrum/nextflow-pipeline-builder)
+> **Visual composer** for Nextflow bioinformatics pipelines — drag, connect, export.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bogrum&show_icons=true&theme=radical" alt="bogrum's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bogrum&theme=radical" alt="bogrum's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogrum&layout=compact&theme=radical" alt="bogrum's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bogrum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogrum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bogrum&theme=radical&row=1&column=7" alt="bogrum's trophies" />
+  <img src="https://streak-stats.demolab.com/?user=bogrum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bogrum&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎓 Education & Experience
 
-- **Programming:** Python (intermediate), HTML/CSS/JavaScript (beginner), Bash/Shell (basic)
-- **Bioinformatics & Molecular Modeling:** Gromacs, PyMOL, VMD, Smina, AutoDock, AutoDock Vina, RASPA
-- **Software:** Microsoft Office Suite, Adobe Photoshop (basics), CAD (SolidWorks, AutoCAD, Fusion360)
-- **Keen on:** Molecular simulations, Monte Carlo simulation, molecular docking, Linux terminal commands
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Education**
 
-## 🎓 Education
+🎓 **MSc** Bioinformatics & Systems Biology
+&nbsp;&nbsp;&nbsp;Gebze Technical University · 2025–present
 
-**MSc in Bioinformatics and Systems Biology**  
-Gebze Technical University (2025 - Present)
+🎓 **BSc** Bioengineering
+&nbsp;&nbsp;&nbsp;Gebze Technical University · 2019–2025
 
-**BSc in Bioengineering**  
-Gebze Technical University (2019 - 2025)  
-_GPA: 2.96_
+</td>
+<td valign="top" width="50%">
 
----
+**Experience**
 
-## 💼 Experience Highlights
+🔬 Research Fellow · TÜBİTAK 3501
+💊 Research Intern · ERA PHARMA
+🧪 Bioinformatics Intern · GTU BioInfo Lab
+🌐 Secretary · ISCB-SC RSG-Türkiye
+🏫 STEM Instructor · DENEYAP TÜRKİYE
+🎖️ Committee President · GTÜ IAPS
 
-- **Secretary & Journal Club Member | ISCB-SC RSG-TÜRKIYE**
-- **Research Intern | ERA PHARMA**
-- **Research Fellow | TÜBİTAK 3501 Career Development Program**
-- **Bioinformatics Intern | GTU Bioinformatics Lab**
-- **STEM Instructor | DENEYAP TÜRKİYE**
-- **Committee President & Board Member | GTÜ IAPS Student Club**
-
----
-
-## 🚀 Featured Projects
-
-### [PocketHunter](https://github.com/costbio/PocketHunter)
-A command-line tool for scanning small binding pockets in protein conformational ensembles and performing community docking simulations. Built as part of the TÜBİTAK 2209-A project, PocketHunter leverages computational and structural bioinformatics to enable advanced biological research.
-
-- [PocketHunter-Suite](https://github.com/costbio/PocketHunter-Suite)  
-- [PocketHunter Demo](https://github.com/costbio/pockethunter_demo)  
-- [TÜBİTAK 2209-A Project](https://github.com/costbio/PocketHunter)  
-
-### [RSG-Turkiye Website](https://github.com/RSG-Turkiye/website)
-Contributed to the website of the Turkish Student Council of the International Society for Computational Biology.
-
-### [Nextflow Retrobiosynthesis](https://github.com/niraito/Nextflow_Retrobiosynthesis)
-Worked on pipeline development for computational biosynthesis.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- **Email:** [e.cevik2000@proton.me](mailto:e.cevik2000@proton.me)
-- **LinkedIn:** [emrecev](https://www.linkedin.com/in/emrecev/)
+*"Driven by curiosity, collaboration, and the pursuit of innovative solutions in bioinformatics and computational biology."*
 
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-> _"Driven by curiosity, collaboration, and the pursuit of innovative solutions in bioinformatics and computational biology."_
+</div>
