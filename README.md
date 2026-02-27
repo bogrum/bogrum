@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emre%20Taha%20%C3%87evik&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Bioinformatician%20%7C%20Bioengineer%20%7C%20Builder&descAlignY=58&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=MSc+Bioinformatics+%40+Gebze+Technical+University;Molecular+simulations+%7C+Structural+bioinformatics;Building+tools+at+the+biology%E2%80%93code+interface)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=MSc+Bioinformatics+%40+Gebze+Technical+University;Molecular+simulations+%7C+Structural+bioinformatics;Building+tools+at+the+biology%E2%80%93code+interface)](https://git.io/typing-svg)
 
 <br/>
 
