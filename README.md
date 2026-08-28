@@ -59,6 +59,14 @@ Bioengineer turned computational scientist, building tools at the intersection o
 
 ## 🚀 Featured Projects
 
+### 🌐 [RSG-Türkiye Website](https://github.com/RSG-Turkiye/website)
+> Led the infrastructure migration and feature development for RSG-Türkiye's website — domain migration, member auth & profiles, a growth-rank/badge system, a community announcements platform, and a full member-submitted-blog pipeline (submission → admin review → automated GitHub PR) with role-based permissions and CI safeguards.
+> Astro · Cloudflare Pages/D1/R2 · TypeScript — architected and directed end-to-end with Claude Code.
+
+🔗 [Live site](https://rsg-turkiye.iscbsc.org)
+
+---
+
 ### 🔍 [PocketHunter](https://github.com/costbio/PocketHunter)
 > CLI tool for **detecting small binding pockets** in protein conformational ensembles and running community docking simulations.
 > Developed under the **TÜBİTAK 2209-A** research program.
