@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emrecev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecev/)
 &nbsp;
-[![Email](https://img.shields.io/badge/ProtonMail-e.cevik2000%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:e.cevik2000@proton.me)
+[![Email](https://img.shields.io/badge/Email-emretcevik%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emretcevik@gmail.com)
 
 </div>
 
